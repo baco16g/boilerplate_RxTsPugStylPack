@@ -11,7 +11,7 @@ Boilerplate with RxJS, TypeScript, Pug, Stylus, WebPack
 $ yarn // install package
 
 $ yarn run start // dev
-$ yarn run start // build
+$ yarn run build // build
 ```
 
 ## ToDo
