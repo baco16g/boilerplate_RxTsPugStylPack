@@ -1,4 +1,4 @@
-RxTsPugStylPack
+boilerplate_RxTsPugStylPack
 ====
 
 Overview
