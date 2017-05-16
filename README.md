@@ -1,8 +1,6 @@
 boilerplate_RxTsPugStylPack
 ====
 
-Overview
-
 Boilerplate with RxJS, TypeScript, Pug, Stylus, WebPack
 
 ## Usage
